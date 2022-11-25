@@ -3,6 +3,9 @@ title: About
 permalink: /about/
 ---
 
-Certified software engineer
+[![](https://1.bp.blogspot.com/-TLzXibRZHmw/X-BgsNnl1II/AAAAAAAAIKA/8hmTL1Bzlf4gJhUT43k7pqKdUhUqr354wCLcBGAsYHQ/s16000/logo1.png)](#)
 
-This is a simple blog about all the web conferences I like to attend.
+These are the blogs about evolving web technologies I like to explore.
+
+
+Certified Software Engineer | DevOps | Site Reliability Engineer | Cyber Security Expert
