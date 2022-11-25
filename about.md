@@ -8,4 +8,4 @@ permalink: /about/
 These are the blogs about evolving web technologies I like to explore.
 
 
-Certified Software Engineer | DevOps | Site Reliability Engineer | Cyber Security Expert
+Certified Software Engineer \| DevOps \| Site Reliability Engineer \| Cyber Security Expert
